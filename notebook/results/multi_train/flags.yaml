@@ -1,0 +1,7 @@
+debug: false
+device: cuda:0
+epoch: 2
+l5kit_data_folder: ../data
+out_dir: results/multi_train
+pred_mode: multi
+snapshot_freq: 50
